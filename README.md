@@ -1,3 +1,4 @@
+
 ### 🛠 Technologies used:
 
 <p>
@@ -13,14 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
----
-
-### 📫 How to contact me:
-<a href="https://www.linkedin.com/in/laurenlingham" target="_blank">
-    <img src="https://img.shields.io/badge/LaurenLingham-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-
----
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### 🔥 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LaurenLingham&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
