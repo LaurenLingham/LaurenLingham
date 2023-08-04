@@ -16,9 +16,6 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-### 🔥 My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LaurenLingham&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
 <!--
 **LaurenLingham/LaurenLingham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
